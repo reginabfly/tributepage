@@ -1,0 +1,42 @@
+body {
+  background-color: #07889b;
+}
+
+div.container {
+	box-shadow: 0 0 10px #111;
+  margin-top: 1em;
+  font-family: 'Roboto', sans-serif;
+}
+
+div.leftColumn {
+  margin-top: 1em;
+}
+
+div.rightColumn {
+  margin-top: 1em;
+}
+
+blockquote p {
+	color: #07889B;
+  font-size: 1.5em;
+	font-style: italic;
+}
+
+cite {
+  color: grey;
+}
+
+div.images3 {
+  margin: 0 5px 0 5px;
+}
+
+.imgsmall {
+  border: 2px solid #07889b;
+}
+
+p.pictureText {
+  padding-top: 10px 2px 0px 2px;
+  min-height: 100px;
+  border: 2px solid #07889b;
+  border-top: 0px;
+}
